@@ -60,7 +60,7 @@
                 </executions>
                 <configuration>
                     <skip>false</skip>
-                    <imageName>clipsortxml</imageName>
+                    <imageName>clip-sort-xml</imageName>
                     <mainClass>run.runnable.clipsortxml.ClipSortXmlApplication</mainClass>
                     <buildArgs>
                         --no-fallback
